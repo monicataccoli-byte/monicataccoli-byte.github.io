@@ -10,12 +10,14 @@ body {
     padding: 10px;
     text-align: center;
     font-size: 36px;
-    color: white; 
+    color: white;
 }       
 nav {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     gap: 32px;
+    font-weight: bolder ;
+    padding: 10px 20px;
 }
 
 .nav-link {
@@ -36,6 +38,8 @@ nav {
     padding: 40px 20px 60px;
     text-align: center;
     }
+
+    p { font-weight: bold; color: white;justify-content: left; }
 
 
 .contact-title {
@@ -63,17 +67,19 @@ nav {
 
 
 .form-group {
-    margin-bottom: 4px;
+    margin-bottom: 20px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
 }
 
 .form-group label {
-    margin-bottom: 4px;
+    font-size: 15px;
+    margin-bottom: 8px;
     display: flex;
     font-weight: bold;
     color: #333;
+    text-transform: lowercase;
 }
 .form-group input,
 .form-group textarea {
@@ -87,10 +93,10 @@ nav {
 }
 .container {
             display: flex;
-            align-items: center;
+            align-items: left;
             justify-content: center;
         } 
-        
+
 .contact-form {text-align: left;
 }
 

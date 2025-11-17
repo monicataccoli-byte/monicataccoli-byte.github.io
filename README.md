@@ -5,7 +5,7 @@
 ## Project Requirements
 
 ### Content
- Add a short paragraph describing the features below. What aesthetic and technical choices did you make? 
+ Creating my first website. What aesthetic and technical choices did you make? 
 - [ ] At least one profile picture
 - [ ] Biography (at least 100 words)
 - [ ] Functional Contact Form
@@ -33,4 +33,6 @@
 > You can do this by saving the images in a folder in your repo, and including them in your readme document with the following Markdown code: 
 
 ####  image_title_goes_here 
-![Put a description of your image here](./relative_path_to_file)
+![Put a description of your image here](./smile.png)
+<!-- need to save and name the wireframe screenshot and insert into READMEmd-->
+![wirefame](./monica-first-portfolio-dogs.png)
