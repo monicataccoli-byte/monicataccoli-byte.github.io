@@ -6,6 +6,7 @@
 
 ### Content
  Creating my first website. What aesthetic and technical choices did you make? 
+ Type something
 - [ ] At least one profile picture
 - [ ] Biography (at least 100 words)
 - [ ] Functional Contact Form
