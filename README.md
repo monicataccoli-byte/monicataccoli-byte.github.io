@@ -36,7 +36,7 @@ The design decisions were based on simplicity and vivid colours to attract atten
 > Please include the following: I was able to add a different feature on the contact page that I feel also was aligned with the look of the first page by embedding images that complemented each other in colour and continued to provide an effect of a friendly, welcoming website.
 
 > - The different pages and features of your website on mobile, tablet and desktop screen sizes (multiple screenshots per page and screen size). Please see the attachments below for the images.
-[hover over the contact button](./
+[hover over the contact button]
 
 > - The different features of your site, e.g. if you have hover states, take a screenshot that shows that.  Please see screenshots attached.
 > 
