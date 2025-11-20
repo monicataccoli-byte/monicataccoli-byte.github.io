@@ -46,3 +46,4 @@ The design decisions were based on simplicity and vivid colours to attract atten
 ![This image was used to continue the effect of the first page ethos.](./smile.png)
 ![This image was used in the first page as a profile picture that reflected my idenity](./monica-first-portfolio-dogs.png)
 ![wirefame](./Monica%20Tacoli%20first%20portfolio%20wireframe.jpg)
+![Screenshot of hover over contact button](./Hover%20over%20the%20contact%20button%20on%20the%20first%20page.jpg)
